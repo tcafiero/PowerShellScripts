@@ -20,9 +20,6 @@ param(
 
 
 $p = @{
-VMUsername = $VMUsername
-VMPassword = $VMPassword
-VMName = $VMName
 SharedFolderUser = $SharedFolderUser
 SharedFolderPassword = $SharedFolderPassword
 ComputerRepository = $ComputerRepository
